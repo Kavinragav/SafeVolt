@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e012c32d-4bcb-4c9c-87d3-bf60ce8f3c0d)
  SafeVolt - File Protection Tool
 Welcome to SafeGuard Backup, a sleek and elegant solution to automate and monitor your file backups with ease! This project combines a powerful Flask backend with a React-based frontend to ensure your data is safe and sound. 🌟
 
